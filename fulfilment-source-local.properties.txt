@@ -1,0 +1,1 @@
+welcome.message=Welcome message from fulfilment-source-local.properties file! Welcome to fulfilment-source api in local.
