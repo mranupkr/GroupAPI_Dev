@@ -1,1 +1,0 @@
-welcome.message=Welcome message from fulfilment-orchestration-local.properties file! Welcome to fulfilment-orchestration api in local.
